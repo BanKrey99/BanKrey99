@@ -1,8 +1,7 @@
 <p align="center" width="300">
    <img 
   src="https://i.pinimg.com/736x/0e/1a/dd/0e1add67a18f447c98a3eed09cb12e8a.jpg"
-  width="200"
-  style="border-radius:50%; object-fit:cover; border:4px solid #000;"
+  class="profile-img"
   alt="Foto de perfil">
    <h3 align="center">¡Hola! Soy Andrey 📡</h3>
 </p>
