@@ -1,11 +1,17 @@
-<p align="center" width="300">
-   <img 
-  src="https://i.pinimg.com/736x/0e/1a/dd/0e1add67a18f447c98a3eed09cb12e8a.jpg"
-  class="profile-img"
-  alt="Foto de perfil">
-   <h3 align="center">¡Hola! Soy Andrey 📡</h3>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://i.pinimg.com/736x/0e/1a/dd/0e1add67a18f447c98a3eed09cb12e8a.jpg?v=5"
+        width="200"
+        height="200"
+        style="border-radius:50%; object-fit:cover;"
+        alt="Foto de perfil"
+      />
+      <h3>¡Hola! Soy Andrey 📡</h3>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
